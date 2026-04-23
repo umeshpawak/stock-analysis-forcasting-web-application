@@ -11,7 +11,7 @@ It enables users to analyze historical stock data, explore financial metrics, ap
 
 ---
 
-## 🚀 Key Highlights
+##  Key Highlights
 
 * Built an **end-to-end ML-powered stock forecasting system**
 * Deployed a **live cloud-based application using Streamlit**
@@ -22,16 +22,15 @@ It enables users to analyze historical stock data, explore financial metrics, ap
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🔍 Stock Analysis
+###  Home Page
+<img width="1440" height="900" alt="Screenshot 2026-04-24 at 2 45 19 AM" src="https://github.com/user-attachments/assets/bcd95dfa-e4f2-431d-8c2e-839a0f604875" />
 
-![Stock Analysis](app.png)
 
-### 📊 Stock Prediction
 
-![Stock Prediction](app.png)
-
+### 📊 Stock Analysis
+<img width="1440" height="900" alt="Screenshot 2026-04-24 at 2 46 31 AM" src="https://github.com/user-attachments/assets/ba564f93-73f9-4bad-85b0-f0ed39e85298" />
 ---
 
 ## ⚙️ Features
