@@ -13,7 +13,7 @@ def app():
 
     # Streamlit earlier versions don't natively support programmatic page switching easily.
     # A simple anchor link pointing back to the root acts as a Home button.
-    st.markdown('<a href="/" target="_self" style="text-decoration: none; padding: 0.5rem 1rem; background-color: #f0f2f6; border-radius: 5px; color: black; font-weight: bold;">⬅️ Home</a><br><br>', unsafe_allow_html=True)
+    st.markdown('<a href="/" target="_self" style="text-decoration: none; padding: 0.5rem 1rem; background-color: #f0f2f6; border-radius: 5px; color: black; font-weight: bold;">Home</a><br><br>', unsafe_allow_html=True)
 
     st.title("Stock Prediction")
 
