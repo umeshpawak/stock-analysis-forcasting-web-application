@@ -1,4 +1,4 @@
-# 📈 Stock Analysis & Forecasting Dashboard
+# 📈 stock-analysis-forcasting-web-application
 
 A professional, interactive **Stock Analysis & Forecasting Web App** built using Streamlit.
 It enables users to analyze historical stock data, explore financial metrics, apply technical indicators, and predict future prices using machine learning.
