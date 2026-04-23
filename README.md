@@ -105,7 +105,6 @@ streamlit run trading_App.py
 
 ## ⚡ Future Improvements
 
-* Add Deep Learning models (LSTM)
 * Portfolio optimization module
 * News sentiment analysis integration
 * User authentication & watchlist
